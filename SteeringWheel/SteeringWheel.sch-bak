@@ -180,12 +180,24 @@ Wire Wire Line
 $Comp
 L Connector:Conn_01x10_Female J4
 U 1 1 63152CD3
-P 6880 4170
-F 0 "J4" H 6908 4146 50  0000 L CNN
-F 1 "Conn_01x10_Female" H 6908 4055 50  0000 L CNN
-F 2 "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-10-5.08_1x10_P5.08mm_Horizontal" H 6880 4170 50  0001 C CNN
-F 3 "~" H 6880 4170 50  0001 C CNN
-	1    6880 4170
-	1    0    0    -1  
+P 3012 5218
+F 0 "J4" H 3040 5194 50  0000 L CNN
+F 1 "Conn_01x10_Female" H 3040 5103 50  0000 L CNN
+F 2 "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-10-5.08_1x10_P5.08mm_Horizontal" H 3012 5218 50  0001 C CNN
+F 3 "~" H 3012 5218 50  0001 C CNN
+	1    3012 5218
+	-1   0    0    1   
 $EndComp
+Wire Wire Line
+	4026 4748 3212 4718
+Wire Wire Line
+	3212 4818 4026 4848
+Wire Wire Line
+	4026 4948 3212 4918
+Wire Wire Line
+	4024 5048 3212 5018
+Wire Wire Line
+	4026 5148 3212 5118
+Wire Wire Line
+	3212 5618 4026 5548
 $EndSCHEMATC

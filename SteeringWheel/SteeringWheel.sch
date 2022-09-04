@@ -73,7 +73,7 @@ U 1 1 63160366
 P 4226 5048
 F 0 "J2" H 4306 5040 50  0000 L CNN
 F 1 "Conn_01x10" H 4306 4949 50  0000 L CNN
-F 2 "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-10-5.08_1x10_P5.08mm_Horizontal" H 4226 5048 50  0001 C CNN
+F 2 "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MPT-0,5-10-2.54_1x10_P2.54mm_Horizontal" H 4226 5048 50  0001 C CNN
 F 3 "~" H 4226 5048 50  0001 C CNN
 	1    4226 5048
 	1    0    0    -1  
@@ -183,7 +183,7 @@ U 1 1 63152CD3
 P 3012 5218
 F 0 "J4" H 3040 5194 50  0000 L CNN
 F 1 "Conn_01x10_Female" H 3040 5103 50  0000 L CNN
-F 2 "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-10-5.08_1x10_P5.08mm_Horizontal" H 3012 5218 50  0001 C CNN
+F 2 "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MPT-0,5-10-2.54_1x10_P2.54mm_Horizontal" H 3012 5218 50  0001 C CNN
 F 3 "~" H 3012 5218 50  0001 C CNN
 	1    3012 5218
 	-1   0    0    1   
